@@ -185,4 +185,4 @@ eoc-monitoring-lab/
 
 **Abdul Majid Khan**
 CompTIA Security+ | Splunk Core Certified User | Google Cybersecurity Certified | Fortinet NSE3
-Hyderabad, India | [LinkedIn]([https://linkedin.com/in/abdulmajidkhan](https://www.linkedin.com/in/abdul-majid-khan-b14ab7220/))
+Hyderabad, India | [LinkedIn](https://www.linkedin.com/in/abdul-majid-khan-b14ab7220/)
