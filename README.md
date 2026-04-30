@@ -124,14 +124,24 @@ Every monitor alert automatically creates a ServiceNow incident with host name, 
 
 ## Screenshots
 
-| File | Description |
-|---|---|
-| `screenshots/dashboard.png` | Live EOC Infrastructure Health dashboard |
-| `screenshots/monitors-list.png` | All 3 custom EOC monitors |
-| `screenshots/monitor-alert.png` | High CPU monitor in ALERT with event timeline |
-| `screenshots/email-alert.png` | Automated email with embedded CPU graph |
-| `screenshots/servicenow-incident-list.png` | Auto-created incidents in ServiceNow |
-| `screenshots/servicenow incident detail 2.png` | INC detail with full runbook description |
+### EOC Infrastructure Health Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Monitor List — All 3 EOC Monitors
+![Monitor List](screenshots/Monitor%20List%20With%20ALERT.png)
+
+### High CPU Monitor in ALERT
+![Monitor Alert](screenshots/Monitor%20details%20with%20event%20timeline.png)
+
+### Email Notification with CPU Graph
+![Email Alert](screenshots/Email%20alert.png)
+
+### ServiceNow Incident List — Auto-Created
+![ServiceNow Incident List](screenshots/ServiceNow%20incident%20list.png)
+
+### ServiceNow Incident Detail with Runbook
+![ServiceNow Incident Detail](screenshots/ServiceNow%20incident%20detail%201.png)
+EOF
 
 ---
 
