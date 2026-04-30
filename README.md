@@ -131,7 +131,7 @@ Every monitor alert automatically creates a ServiceNow incident with host name, 
 | `screenshots/monitor-alert.png` | High CPU monitor in ALERT with event timeline |
 | `screenshots/email-alert.png` | Automated email with embedded CPU graph |
 | `screenshots/servicenow-incident-list.png` | Auto-created incidents in ServiceNow |
-| `screenshots/servicenow-incident-detail.png` | INC detail with full runbook description |
+| `screenshots/servicenow incident detail 2.png` | INC detail with full runbook description |
 
 ---
 
